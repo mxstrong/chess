@@ -1,0 +1,58 @@
+
+z	java:S135-"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ûîèÑÂ1
+m
+java:S1104À"OMake row a static final constant or non-public and provide accessors if needed.(²¤÷”8üîèÑÂ1
+p
+java:S1104Á"RMake column a static final constant or non-public and provide accessors if needed.(‰¹´8üîèÑÂ1
+y
+java:S1104Â"VMake coordinate a static final constant or non-public and provide accessors if needed.(®¶ßÿÿÿÿÿ8üîèÑÂ1
+q
+java:S1104Ã"SMake isWhite a static final constant or non-public and provide accessors if needed.(’Ô«¾8üîèÑÂ1
+t
+java:S1104Å"VMake isOccupied a static final constant or non-public and provide accessors if needed.(ú®Ìú8üîèÑÂ1
+t
+java:S1104Æ"VMake occupiedBy a static final constant or non-public and provide accessors if needed.(ª™‰8üîèÑÂ1
+y
+java:S1104È"[Make occupiedByWhite a static final constant or non-public and provide accessors if needed.(Ù‹÷¹8üîèÑÂ1
+7
+java:S1220""Move this file to a named package.8ıîèÑÂ1
+r
+java:S3655/"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¿†ûòıÿÿÿÿ8çğèÑÂ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(œû¿Ø8ëğèÑÂ1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ìğèÑÂ1
+a
+java:S3358?"DExtract this nested ternary operation into an independent statement.(ÙÏâº8ôğèÑÂ1
+f
+java:S3358@"DExtract this nested ternary operation into an independent statement.(üÁÃ®ÿÿÿÿÿ8ôğèÑÂ1
+a
+java:S3358?"DExtract this nested ternary operation into an independent statement.(ÙÏâº8ôğèÑÂ1
+f
+java:S3358@"DExtract this nested ternary operation into an independent statement.(üÁÃ®ÿÿÿÿÿ8ôğèÑÂ1
+L	java:S106J"+Replace this use of System.out by a logger.(”Ò¦¢ûÿÿÿÿ8õğèÑÂ1
+L	java:S106L"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ8õğèÑÂ1
+L	java:S106N"+Replace this use of System.out by a logger.(‡ÆÚéüÿÿÿÿ8ñèÑÂ1
+G	java:S106Q"+Replace this use of System.out by a logger.(ÄÆşı8ñèÑÂ1
+L	java:S106W"+Replace this use of System.out by a logger.(µÉµ²ûÿÿÿÿ8ñèÑÂ1
+F	java:S106["+Replace this use of System.out by a logger.(€Î™8ñèÑÂ1
+G	java:S106d"+Replace this use of System.out by a logger.(¦¼ø8”ñèÑÂ1
+G	java:S106l"+Replace this use of System.out by a logger.(êÅçØ8í©éÑÂ1
+I
+java:S1602n",Remove useless curly braces around statement(Ö¤ŸÓ8•ñèÑÂ1
+G	java:S106o"+Replace this use of System.out by a logger.(¦ûú†8ê¡ìÑÂ1
+u
+java:S3776t"SRefactor this method to reduce its Cognitive Complexity from 183 to the 15 allowed.(èˆ‹«ıÿÿÿÿ8–ñèÑÂ1
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(š•»€8˜ñèÑÂ1
+_
+java:S1126"AReplace this if-then-else statement by a single return statement.(¿°Êµ8™ñèÑÂ1
+^
+java:S1126›"AReplace this if-then-else statement by a single return statement.(Ç×ò58ñèÑÂ1
+|	java:S115¤"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ³ê¹ıÿÿÿÿ8ñèÑÂ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8İİëÑÂ1
+ä
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 105 to 64, Complexity from 16 to 14, Nesting Level from 4 to 2, Number of Variables from 24 to 6.(œû¿Ø8¦ñèÑÂ1
+é
+java:S6541t"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 172 to 64, Complexity from 78 to 14, Nesting Level from 5 to 2, Number of Variables from 16 to 6.(èˆ‹«ıÿÿÿÿ8¦ñèÑÂ1
